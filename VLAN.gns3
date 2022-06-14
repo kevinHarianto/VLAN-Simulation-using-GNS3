@@ -1,6 +1,6 @@
 {
     "auto_start": false,
-    "name": "Ass4VLAN",
+    "name": "VLAN",
     "project_id": "56f1a6aa-7226-42ed-82c2-74c53fd27e30",
     "revision": 4,
     "show_port_names": true,
